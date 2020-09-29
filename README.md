@@ -28,7 +28,7 @@
 |-ruhn|home (lit. hearth-hall)|
 |sadrith|mushroom|
 |saliche|High Elves|
-|sera	a term of respect|
+|sera|a term of respect|
 |serjo|a term of high respect|
 |sunna|blessed|
 |s'wit|an insult|
