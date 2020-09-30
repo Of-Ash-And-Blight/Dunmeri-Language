@@ -60,24 +60,17 @@ Default formatting: fanmade Dunmeri word
   
 (1) source unknown  
 (2) `Ald` seems to be related to Redoran, as seen in Ald'Ruhn, Ald Velothi, or Ald Redaynia (however, not exclusively - compare: Ald Sotha, Ald Daedroth).  
-Bluttier's thoughts on it:  
-```  
-war with the infidels...I mean nords and Cyrodiils makes them appreciate when a stronghold lasts a long time. It means that it can stand on it's own and is worth fighting for.  
-```
-  
-MD's thoughts on it:  
-```  
-maybe it's referring less to the city and more to a concept. "Old Home" respects the ancestral lands of the Redoran by naming it old home even though it is the new seat of power. "Old Velothi"and "Old Resdayn" both honor the old concepts of the Velothi people and Resdayn.  
-```
-  
+Bluttier's thoughts on it: *war with the infidels...I mean nords and Cyrodiils makes them appreciate when a stronghold lasts a long time. It means that it can stand on it's own and is worth fighting for.*  
+MD's thoughts on it: *maybe it's referring less to the city and more to a concept. "Old Home" respects the ancestral lands of the Redoran by naming it old home even though it is the new seat of power. "Old Velothi"and "Old Resdayn" both honor the old concepts of the Velothi people and Resdayn.*  
 (3) `Interview with the Skeleton Man`  
+  
 ## Words related to fire
 
 |Word|Translation|Source|Notes|
 |---|---|---|---|
 |*foy*|lava|
 |**foyada**|fire river||*refers to the "dry" channel*; note: Ashlander term|
-|**molag**|fire|*refers to fire of volcanic origin*
+|**molag**|fire||*refers to fire of volcanic origin*
 
 
 ## Forms of address, insults, and colloquial exclamations
