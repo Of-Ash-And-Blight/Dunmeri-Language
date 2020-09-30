@@ -1,43 +1,90 @@
 # Dunmeri-Language
 
-**Bold:** canon words  
+**Bold:** canon Dunmeri word  
 *Italics:* fanmade word or translation, but rooted in canon  
-Default: 
+Default formatting: fanmade Dunmeri word  
 
 ## Generic vocabulary
 
 |Word|Translation|Source|Notes|
 |---|---|---|---|
-|**ald**|old|MW dialogue|
+|**ald**|old|MW dialogue|(2)|
+|**amur**|
+|**armun**|
+|**an**|
+|baan|black|TR|
 |**bal**|stone|MW dialogue|
+|**chuzei**||
 |**camina**|new|(1)|
 |**camonna**|ancient|(1)|
 |**card**|ancestors|MW savant dialogue|literally: "undeparted kin-wardens"|
 |**cardruhn**|ancestral tomb|MW savant dialogue|
-|**foyada**|fire river|
-|**gah**|great|
-|**isra**|row|
-|**julan**|benefit|
+|dal|mountain|SLB|
+|*dan*|land|
+|**dun**|dark|
+|**enamor**|
+|**gah**|great|MW dialogue|Redoran craft `gah-julan` bonemold armor|
+|*ge*|star|
+|**gnaar**|*coast*|SLB|
+|guhn|district|SLB|
+|*gur*|vegetation|
+|**guradan**|greenland|
+|**isra**|row|MW dialogue|location name: `Bal Isra`|
+|**julan**|benefit|MW dialogue|Redoran craft `gah-julan` bonemold armor|
 |**kena**|scholar||also functions as a form of address|
+|krag||TR|`Kragen Mar`; `krage` bonemold|
 |**kogo**|unbreakable|
-|**molag**|fire|
+|malur|light|TR|
+|**mar**|
+|*marad*|
 |**morag**|forester|
-|**moriche**|Chimer|
+|**moriche**|Chimer|(3)|
 |**nammu**|no name|
 |**oad**||
+|ouada||TR|
 |**ouda**|river|
+|ouaka||TR|
+|oyra||TR|
+|rhun||TR|
 |**ruhn**|home, hearth-hall|MW savant dialogue|
 |**sadrith**|mushroom|
-|**saliche**|High Elves|
+|*sal*|
+|**saliche**|High Elves|(3)|
+|**sar-shemad**|tainted|(1)|
 |**sunna**|blessed|
-|**tel**|tower|
+|**tel**|tower|MW dialogue|
+|thul|wind|SLB|
 |**tong**|guild|
+|val|camp|SLB|
+|yan|young|MD|
+  
+(1) source unknown  
+(2) `Ald` seems to be related to Redoran, as seen in Ald'Ruhn, Ald Velothi, or Ald Redaynia (however, not exclusively - compare: Ald Sotha, Ald Daedroth).  
+Bluttier's thoughts on it:  
+```  
+war with the infidels...I mean nords and Cyrodiils makes them appreciate when a stronghold lasts a long time. It means that it can stand on it's own and is worth fighting for.  
+```
+  
+MD's thoughts on it:  
+```  
+maybe it's referring less to the city and more to a concept. "Old Home" respects the ancestral lands of the Redoran by naming it old home even though it is the new seat of power. "Old Velothi"and "Old Resdayn" both honor the old concepts of the Velothi people and Resdayn.  
+```
+  
+(3) `Interview with the Skeleton Man`  
+## Words related to fire
+
+|Word|Translation|Source|Notes|
+|---|---|---|---|
+|*foy*|lava|
+|**foyada**|fire river||*refers to the "dry" channel*; note: Ashlander term|
+|**molag**|fire|*refers to fire of volcanic origin*
+
 
 ## Forms of address, insults, and colloquial exclamations
 
 |Word|Translation|Source|Notes|
 |---|---|---|---|
-|**b'vek**|by the /[gods/]!|MW book: `The Horror of Castle Xyr`|informal exclamation of surprise; contraction of "by Vivec!"|
+|**b'vek**|by the gods!|MW book: `The Horror of Castle Xyr`|informal exclamation of surprise; contraction of "by Vivec!"|
 |**fetcher**|fucker|MW dialogue|generic insult; rude but milder than `n'wah`|
 |**f'lah**|native|MW dialogue|an informal form of address; can be friendly(`You look like a f'lah who knows his way around, eh?`), neutral (`it's smart to get on a f'lah's good side`), or mildly insulting(`scran, f'lah`) depending on the context|
 |**kena**|scholar|MW books: `The Horror of Castle Xyr`, `Poison Song`|used to address scholars, mages, tutors; also functions as a generic word|
@@ -52,13 +99,11 @@ Default:
 |**s'wit**|idiot, moron, half-wit|MW dialogue|
 
   
-(1) source unknown
+(1) source unknown  
 (2) source: Argonian and Khajiit `Hello` topic (voiced dialogue); in vanilla game, most of it is *not* filtered for `class=slave`, but it seems strange that those two particular races had it assigned
 
   
 RFD's note: I believe that instead of one list like this with stuff being split later, it would be best to use a common list:  
---canon words in bold  
---source column lists canon source (with a quote?) or mod/modder (TR for Baan, etc.)  
 --if a not-fully-canon word/translation is canon-derived, also include that in notes along with direct source (Sha- from Shashpilamat, etc.)  
 --thin column for A/Y note (Ald-Dunmeri/Yan'Dunmeri)  
   
