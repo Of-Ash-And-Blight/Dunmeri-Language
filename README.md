@@ -26,6 +26,8 @@ Default formatting: fanmade Dunmeri word
 |**gah**|great|MW dialogue|Redoran craft `gah-julan` bonemold armor|
 |*ge*|star|
 |**gnaar**|*coast*|SLB|
+|*gor*|worm|MD|because of Goris the Maggot King|
+|goros|kwama loaf|MD|forager cooked along with its partially-ingested food (4)|
 |guhn|district|SLB|
 |*gur*|vegetation|
 |**guradan**|greenland|
@@ -63,6 +65,7 @@ Default formatting: fanmade Dunmeri word
 Bluttier's thoughts on it: *war with the infidels...I mean nords and Cyrodiils makes them appreciate when a stronghold lasts a long time. It means that it can stand on it's own and is worth fighting for.*  
 MD's thoughts on it: *maybe it's referring less to the city and more to a concept. "Old Home" respects the ancestral lands of the Redoran by naming it old home even though it is the new seat of power. "Old Velothi"and "Old Resdayn" both honor the old concepts of the Velothi people and Resdayn.*  
 (3) `Interview with the Skeleton Man`  
+(4) MD: *It's a smorgasbord of whatever the forager had ingested to bring back to the colony. So it stuffs itself and dunmer catch the slow-moving worm and cook it up with some seasoning. - so a lot of veggies and some miscellaneous meats - that's why it's a cheap food*  
   
 ## Words related to fire
 
